@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>LanguageFeed</name>
+    <id>LanguageFeed</id>
+    <author>JustBSocial</author>
+    <description>Language-filtered feed met gebruikersvoorkeuren (incl. AUTO = gebruikerstaal), automatische taal-tag op nieuwe posts en retro-tools.</description>
+    <license>Open Source Social Network License (OSSN LICENSE)</license>
+    <author_url>https://justbsocial.eu/</author_url>
+    <license_url>https://www.opensource-socialnetwork.org/licence/</license_url>
+    <version>1.4.0</version>
+    <init>ossn_com.php</init>
+    <enable>enable.php</enable>
+    <requires>
+        <type>ossn_version</type>
+        <version>7.0</version>
+    </requires>
+</component>
