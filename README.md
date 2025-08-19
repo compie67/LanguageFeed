@@ -9,3 +9,6 @@ and
 
 gives users the edit en view option
 
+test site
+https://nlsociaal.nl/test/languagefeed/public?lang=all
+make an account and EN, NL, DE works
