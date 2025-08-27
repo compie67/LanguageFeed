@@ -2,7 +2,7 @@
 <component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
     <name>LanguageFeed</name>
     <id>LanguageFeed</id>
-    <author>JustBSocial</author>
+    <author>JustBSocial - compie67</author>
     <description>Language-filtered feed met gebruikersvoorkeuren (incl. AUTO = gebruikerstaal), automatische taal-tag op nieuwe posts en retro-tools.</description>
     <license>Open Source Social Network License (OSSN LICENSE)</license>
     <author_url>https://justbsocial.eu/</author_url>
