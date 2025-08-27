@@ -6,7 +6,7 @@
  * - Voorkeuren per gebruiker (user-entity 'languagefeed_prefs' als JSON)
  * - Nieuwe posts krijgen lang-tag via ENTITIES (type=object, subtype=lang)
  * - Eigen feed + prefs + admin retro (prefs & retro posten direct naar pagina; geen action-gedoe nodig)
- *
+ * - compie67
  * Vereist:
  * - Vertalingen in /components/LanguageFeed/locale/ossn.xx.php
  * - (optioneel) /components/LanguageFeed/vendors/hpp_lang_detect.php met functie hpp_detect_language($text):string
